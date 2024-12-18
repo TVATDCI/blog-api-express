@@ -65,3 +65,5 @@
 - Use `validator` to ensure the category matches the allowed values (electronics, fashion, food).
 - Use `sort()` to display products in ascending order based on price.
 - Use `select()` to display specific fields such as name, price, and category.
+
+#####Please feel free to contact me for further information!
